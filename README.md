@@ -1,5 +1,10 @@
 # Abrax Reverb
 
+[Download Windows x64 VST3 ZIP](https://github.com/grommie122/Abrax-Reverb/releases/download/rolling-windows/Abrax-Reverb-Windows-x64.zip)
+
+GitHub Actions refreshes this ZIP after successful builds from `main`.
+
+
 Abrax Reverb is a Windows x64 hall reverb with Size, Damping, Width, Mix, and Freeze controls.
 
 ## Build
